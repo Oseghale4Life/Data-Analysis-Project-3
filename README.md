@@ -10,6 +10,10 @@ This project provides insight on job application and salaries for data related f
 
 ## DATA SOURCING: 
 -	Downloaded CSV files of data from Linkedln and other job searching sites.
+-	Data set contained around 5 to 17 columns and 787,687 to 3,669,604 rows
+-	 Column headers include skill_id, job_id, skills, job_id	company_id,	job_title_short,	job_title,	job_location,	job_via, job_schedule_type,
+ 	job_work_from_home etc.
+
 
 ## SKILL/CONCEPT: 
 -	SQL
@@ -24,6 +28,7 @@ This project provides insight on job application and salaries for data related f
 ## ANALYSIS:
 -	 Data analyst are more in demand than any other Data related field
 -	Data scientist earn more on an average yearly.
+  
 
 ## CONCLUSION
 
